@@ -1,6 +1,6 @@
 module github.com/banzaicloud/go-cruise-control/integration_test
 
-go 1.21.4
+go 1.24
 
 require (
 	github.com/banzaicloud/go-cruise-control v0.0.0
@@ -88,7 +88,7 @@ require (
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51 // indirect
-	github.com/klauspost/compress v1.17.2 // indirect
+	github.com/klauspost/compress v1.18.7 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.17 // indirect
